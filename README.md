@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @higherstates
+- 👀 I’m interested in all the cool stuff
+- 🌱 I’m currently learning React, JavaScript and all other possibilities!
+- 📫 Reach me at hiorst8@gmail.com
